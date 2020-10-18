@@ -9,9 +9,9 @@ export const QUERY_ME = gql`
             saveBooks {
                 bookId
                 authors
-                description
+                image  
                 title
-                image
+                description
                 link
             }
         }
